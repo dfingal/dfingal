@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dfingal
 - 👀 I’m interested in React and Python jobs
 - 🌱 I’m currently learning to level up my dev skills
-- 💞️ I’m looking to collaborate on any finance analytics projects or usefull apps
+- 💞️ I’m looking to collaborate on any React projects especially finance analytics projects with Python.
 - 📫 How to reach me on twitter @davidfingal
 
 <!---
